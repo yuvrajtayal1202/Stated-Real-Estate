@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display|Roboto&display=swap');
+/* start: best real estate company styles */
+#the-best {
+    margin: 2rem 0;
+}
+
+#the-best .flex > img {
+    width: 47%;
+}
+
+#the-best .flex > div {
+    width: 40%;
+}
+
+#the-best ul {
+    padding-left: 20px;
+    margin-bottom: 4rem;
+}
+
+#the-best ul li {
+    margin: 10px 0;
+}
+/* end: best real estate company styles */
